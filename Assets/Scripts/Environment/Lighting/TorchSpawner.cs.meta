@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e6ae152547e41c24cb0e6e95ffd680d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - torchLeft: {fileID: 2644964444435305511, guid: 947911cf8fb45ec4ab577a247e076765,
+      type: 3}
+  - torchRight: {fileID: 2644964444435305511, guid: e19a49930ed5c39498796821cf98b928,
+      type: 3}
+  - torchLeftTR: {instanceID: 0}
+  - torchRightTR: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

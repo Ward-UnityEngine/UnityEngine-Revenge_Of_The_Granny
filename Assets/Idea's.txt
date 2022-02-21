@@ -1,0 +1,30 @@
+The Revenge Of The Granny Idea's
+
+
+To do:
+- Add player death Animation
+- After 1 km, Granny get's tired, breaks hip. Because granny down. Slap guy become's angry. This will trigger Bossfight against Alap Guy
+- Boss: - Attacks a bit when slapping loses balance, player can walk up to it and give it a good birr. Need to create computer controlled movement which makes player move towards boss.
+			Before birring it
+
+No additional health/Do not overload game
+
+Boss level: - Static Camera
+Platforms with one way collision from up(180deg) Unless arrow key down
+Lay out: 
+                        ---------------
+		
+
+		---------                                  ------------------
+
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+TEXTURES:
+- Player_Death
+- Granny-Attack
+
+
+SOUND:
+-Locomotif
